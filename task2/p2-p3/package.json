@@ -1,0 +1,21 @@
+{
+  "name": "p2-p3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "node-vk": "node node-vk.js",
+    "node-geo": "node node-geo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.16.1"
+  },
+  "devDependencies": {
+    "vite": "^8.0.13"
+  }
+}
